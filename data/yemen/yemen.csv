@@ -1,0 +1,201 @@
+"","rnum","Strike.ID","X.x","Location.x","Province.x","locs","long","lat","Date","Location.y","Province.y","Type.of.attack","Confirmed..possible.US.attack.","Air.operation.","Drone.strike","Minimum.number.of.strikes","Maximum.number.of.strikes","Minimum.people.killed","Maximum.people.killed","Minimum.civilians.reported.killed","Maximum.civilians.reported.killed","Minimum.children.reported.killed","Maximum.children.reported.killed","Minimum.people.injured","Maximum.people.injured","Strike.link","X.y","NAME_0","NAME_1","NAME_2"
+"1",1,"YEM003",3,"Arhab","Sanaa","Arhab, Yemen",44.246602,15.790939,"17/12/2009","Arhab","Sanaa","US-Yemen ground operation
+Possible drone strike","Confirmed",0,0,1,1,0,0,0,0,0,0,0,0,"YEM003","","Yemen","San`a'","Arhab"
+"2",2,"YEM004",4,"Rafd","Shabwa","Rafd, Yemen",44.235559,14.181985,"24/12/2009","Rafd","Shabwa","Airstrike
+Possible cruise missile strike","Confirmed",1,0,1,1,30,34,0,0,0,0,0,0,"YEM004","","Yemen","Ibb","Al Makhadir"
+"3",3,"YEM006",6,"Al Ajashir","Saada","Al Ajashir, Yemen",44.8,17.183333,"15/01/2010","Al Ajashir","Saada","Airstrike","Possible",1,0,1,1,0,6,0,0,0,0,0,0,"YEM006","","Yemen","Sa`dah","Kitaf wa Al Boqe'e"
+"4",4,"YEM013",13,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"03/06/2011","Zinjibar","Abyan","Drone strike","Confirmed",1,1,1,1,7,7,4,4,0,0,0,0,"YEM013","","Yemen","Abyan","Zingibar"
+"5",5,"YEM014",14,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"10/06/2011","Zinjibar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,1,1,0,0,0,0,0,0,"YEM014","","Yemen","Abyan","Zingibar"
+"6",6,"YEM015",15,"Raia","Abyan","Raia, Yemen",43.327237,15.771984,"10/06/2011","Raia","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,3,2,3,2,3,1,1,0,1,"YEM015","","Yemen","Hajjah","Ku'aydinah"
+"7",7,"YEM016",16,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"18/06/2011","Jaar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,0,0,0,0,0,0,6,6,"YEM016","","Yemen","Abyan","Khanfir"
+"8",8,"YEM020",20,"Al Khamila","Abyan","Al Khamila, Yemen",45.313889,13.124444,"01/08/2011","Al Khamila","Abyan","Drone strike
+Possible Yemen Air Force airstrike","Confirmed",1,1,2,4,13,16,0,0,0,0,12,17,"YEM020","","Yemen","Abyan","Khanfir"
+"9",9,"YEM021",21,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"24/08/2011","Zinjibar","Abyan","Airstrike","Possible",1,0,1,1,30,30,0,0,0,0,40,40,"YEM021","","Yemen","Abyan","Zingibar"
+"10",10,"YEM023",23,"Wadi Hassan","Abyan","Wadi Hassan, Yemen",45.4489835,13.1281414,"25/08/2011","Wadi Hassan","Abyan","Airstrike","Possible",1,0,1,1,8,8,0,0,0,0,3,3,"YEM023","","Yemen","Abyan","Zingibar"
+"11",11,"YEM025",25,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"05/09/2011","Jaar","Abyan","Airstrike","Possible",1,0,1,1,3,7,3,7,0,0,4,4,"YEM025","","Yemen","Abyan","Khanfir"
+"12",12,"YEM026",26,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"05/09/2011","Jaar","Abyan","Airstrike","Possible",1,0,2,2,9,11,1,1,1,1,2,2,"YEM026","","Yemen","Abyan","Khanfir"
+"13",13,"YEM029",29,"Shaqra","Abyan","Shaqra, Yemen",45.6969145,13.3566042,"21/09/2011","Shaqra","Abyan","Airstrike","Possible",1,0,1,1,6,7,0,0,0,0,3,3,"YEM029","","Yemen","Abyan","Khanfir"
+"14",14,"YEM032",32,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"14/10/2011","Azzan","Shabwa","Drone strike","Confirmed",1,1,1,1,0,0,0,0,0,0,0,0,"YEM032","","Yemen","Shabwah","Mayfa'a"
+"15",15,"YEM033",33,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"14/10/2011","Azzan","Shabwa","Drone strike","Confirmed",1,1,1,1,7,9,2,2,2,2,0,0,"YEM033","","Yemen","Shabwah","Mayfa'a"
+"16",16,"YEM035",35,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"14/10/2011","Azzan","Shabwa","Airstrike
+Possible drone strike","Possible",1,1,1,1,2,2,1,2,1,1,0,0,"YEM035","","Yemen","Shabwah","Mayfa'a"
+"17",17,"YEM036",36,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"22/12/2011","Zinjibar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,1,1,0,0,0,0,0,0,"YEM036","","Yemen","Abyan","Zingibar"
+"18",18,"YEM043",43,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"18/03/2012","Zinjibar","Abyan","Airstrike
+Possible naval bombardment
+Possible drone strike","Possible",1,1,1,2,14,18,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM043","","Yemen","Abyan","Zingibar"
+"19",19,"YEM044",44,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"18/03/2012","Jaar","Abyan","Airstrike","Possible",1,0,1,1,8,8,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM044","","Yemen","Abyan","Khanfir"
+"20",20,"YEM045",45,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"22/03/2012","Zinjibar","Abyan","Drone strike
+Possible naval bombardment","Confirmed",1,1,3,4,29,30,0,0,0,0,24,24,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM045","","Yemen","Abyan","Zingibar"
+"21",21,"YEM046",46,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"30/03/2012","Azzan","Shabwa","Drone strike","Confirmed",1,1,2,2,5,5,1,1,0,0,6,9,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM046","","Yemen","Shabwah","Mayfa'a"
+"22",22,"YEM050",50,"Al Zahir","Bayda","Al Zahir, Yemen",44.4954532,16.3164621,"14/04/2012","Al Zahir","Bayda","Drone strike","Confirmed",1,1,1,1,3,7,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM050","","Yemen","Al Jawf","Az Zahir"
+"23",23,"YEM051",51,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"16/04/2012","Azzan","Shabwa","Drone strike","Confirmed",1,1,1,5,5,7,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM051","","Yemen","Shabwah","Mayfa'a"
+"24",24,"YEM054",54,"Sanda","Marib","Sanda, Yemen",44.055611,13.347991,"22/04/2012","Sanda","Marib","Drone strike","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM054","","Yemen","Ta`izz","Al Ma'afer"
+"25",25,"YEM055",55,"Nasab","Shabwa","Nasab, Yemen",44.142644,14.180946,"23/04/2012","Nasab","Shabwa","Airstrike
+Possible drone strike","Confirmed",1,1,1,1,3,3,0,0,0,0,2,2,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM055","","Yemen","Ibb","Al Makhadir"
+"26",26,"YEM060",60,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"30/04/2012","Jaar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM060","","Yemen","Abyan","Khanfir"
+"27",27,"YEM061",61,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"02/05/2012","Zinjibar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,10,15,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM061","","Yemen","Abyan","Zingibar"
+"28",28,"YEM062",62,"Wadi Rafad","Shabwa","Wadi Rafad, Yemen",46.7,13.883333,"06/05/2012","Wadi Rafad","Shabwa","Drone strike","Confirmed",1,1,1,1,2,4,1,1,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM062","","Yemen","Abyan","Al Mahfad"
+"29",29,"YEM063",63,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"10/05/2012","Jaar","Abyan","Airstrike
+Possible naval bombardment
+Possible drone strike","Possible",1,1,2,2,5,12,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM063","","Yemen","Abyan","Khanfir"
+"30",30,"YEM064",64,"Shaqra","Abyan","Shaqra, Yemen",45.6969145,13.3566042,"10/05/2012","Shaqra","Abyan","Airstrike
+Possible naval bombardment
+Possible drone strike","Possible",1,1,1,1,2,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM064","","Yemen","Abyan","Khanfir"
+"31",31,"YEM067",67,"Al Ain","Shabwa/Hadramout","Al Ain, Yemen",45.8895389,13.799282,"12/05/2012","Al Ain","Shabwa/Hadramout","Airstrike
+Possible drone strike","Possible",1,1,1,1,6,10,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM067","","Yemen","Abyan","Lawdar"
+"32",32,"YEM068",68,"Shaqra","Abyan","Shaqra, Yemen",45.6969145,13.3566042,"14/05/2012","Shaqra","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,10,10,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM068","","Yemen","Abyan","Khanfir"
+"33",33,"YEM070",70,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"14/05/2012","Jaar","Abyan","Airstrike","Possible",1,0,1,1,0,0,0,0,0,0,2,2,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM070","","Yemen","Abyan","Khanfir"
+"34",34,"YEM071",71,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"15/05/2012","Jaar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,2,4,14,42,14,26,0,0,20,21,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM071","","Yemen","Abyan","Khanfir"
+"35",35,"YEM073",73,"Shibam","Hadhramout","Shibam, Yemen",48.6262491,15.9266974,"17/05/2012","Shibam","Hadhramout","Drone strike","Confirmed",1,1,1,1,2,3,0,0,0,0,0,2,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM073","","Yemen","Hadramawt","Shibam"
+"36",36,"YEM074",74,"Shaqra","Abyan","Shaqra, Yemen",45.6969145,13.3566042,"17/05/2012","Shaqra","Abyan","Airstrike","Possible",1,0,1,1,5,6,0,2,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM074","","Yemen","Abyan","Khanfir"
+"37",37,"YEM075",75,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"19/05/2012","Jaar","Abyan","Airstrike","Possible",1,0,1,1,3,5,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM075","","Yemen","Abyan","Khanfir"
+"38",38,"YEM077",77,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"20/05/2012","Jaar","Abyan","Airstrike","Possible",1,0,1,1,0,9,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM077","","Yemen","Abyan","Khanfir"
+"39",39,"YEM079",79,"Mukalla","Abyan","Mukalla, Yemen",49.1231345,14.5424624,"28/05/2012","Mukalla","Abyan","Airstrike
+Possible naval bombardment
+Possible drone strike","Possible",1,1,1,1,5,5,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM079","","Yemen","Hadramawt","Al Mukalla City"
+"40",40,"YEM082",82,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"07/06/2012","Jaar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM082","","Yemen","Abyan","Khanfir"
+"41",41,"YEM083",83,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"07/06/2012","Jaar","Abyan","Airstrike","Possible",1,0,1,1,5,5,0,0,0,0,3,3,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM083","","Yemen","Abyan","Khanfir"
+"42",42,"YEM084",84,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"11/06/2012","Azzan","Shabwa","Airstrike","Possible",1,0,1,1,16,16,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM084","","Yemen","Shabwah","Mayfa'a"
+"43",43,"YEM085",85,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"13/06/2012","Jaar","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,4,10,18,0,0,0,0,1,1,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM085","","Yemen","Abyan","Khanfir"
+"44",44,"YEM086",86,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"13/06/2012","Azzan","Shabwa","Drone strike","Confirmed",1,1,1,1,9,9,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM086","","Yemen","Shabwah","Mayfa'a"
+"45",45,"YEM087",87,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"15/06/2012","Azzan","Shabwa","Airstrike","Possible",1,0,1,1,5,5,0,0,0,0,2,2,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM087","","Yemen","Shabwah","Mayfa'a"
+"46",46,"YEM088",88,"Shaqra","Abyan","Shaqra, Yemen",45.6969145,13.3566042,"15/06/2012","Shaqra","Abyan","Airstrike
+Possible drone strike","Possible",1,1,1,1,5,7,5,7,4,6,4,5,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM088","","Yemen","Abyan","Khanfir"
+"47",47,"YEM093",93,"Bayhan","Shabwa","Bayhan, Yemen",45.748229,14.752961,"03/07/2012","Bayhan","Shabwa","Drone strike","Confirmed",1,1,1,1,2,5,0,0,0,0,2,2,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM093","","Yemen","Shabwah","Bayhan"
+"48",48,"YEM097",97,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"06/08/2012","Radaa","Bayda","Drone strike","Confirmed",1,1,1,1,7,7,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM097","","Yemen","Al Bayda'","Rada'"
+"49",49,"YEM101",101,"Hawda","Hadhramout","Hawda, Yemen",44.571389,13.166667,"31/08/2012","Hawda","Hadhramout","Drone strike","Confirmed",1,1,1,1,8,8,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM101","","Yemen","Lahij","Al Qabbaytah"
+"50",50,"YEM102",102,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"02/09/2012","Radaa","Bayda","US airstrike
+Possible drone strike","Confirmed",1,0,1,1,12,12,12,12,3,3,4,11,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM102","","Yemen","Al Bayda'","Rada'"
+"51",51,"YEM103",103,"Al Ain","Shabwa/Hadramout","Al Ain, Yemen",45.8895389,13.799282,"05/09/2012","Al Ain","Shabwa/Hadramout","Drone strike","Confirmed",1,1,1,1,4,6,1,4,0,0,3,3,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM103","","Yemen","Abyan","Lawdar"
+"52",52,"YEM104",104,"Al Ain","Shabwa/Hadramout","Al Ain, Yemen",45.8895389,13.799282,"10/09/2012","Al Ain","Shabwa/Hadramout","Drone strike","Confirmed",1,1,1,2,6,15,0,0,0,0,3,3,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM104","","Yemen","Abyan","Lawdar"
+"53",53,"YEM107",107,"Jaar","Abyan","Jaar, Yemen",45.305762,13.2231254,"18/10/2012","Jaar","Abyan","Drone strike","Confirmed",1,1,2,3,7,9,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM107","","Yemen","Abyan","Khanfir"
+"54",54,"YEM108",108,"Maarib","Marib","Maarib, Yemen",44.022849,14.373431,"21/10/2012","Maarib","Marib","Drone strike","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2012/05/08/yemen-reported-us-covert-action-2012/#YEM108","","Yemen","Ibb","Al Qafr"
+"55",55,"YEM116",116,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"04/01/2013","Radaa","Bayda","Drone strike","Confirmed",1,1,1,1,3,3,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM116","","Yemen","Al Bayda'","Rada'"
+"56",56,"YEM117",117,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"19/01/2013","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,0,0,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM117","","Yemen","Ma'rib","Marib"
+"57",57,"YEM118",118,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"19/01/2013","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,2,4,0,3,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM118","","Yemen","Ma'rib","Marib"
+"58",58,"YEM119",119,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"19/01/2013","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,4,6,0,4,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM119","","Yemen","Ma'rib","Marib"
+"59",59,"YEM120",120,"Al Kanais","Marib","Al Kanais, Yemen",45.409882,15.769626,"20/01/2013","Al Kanais","Marib","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM120","","Yemen","Al Jawf","Khabb wa ash Sha'af"
+"60",60,"YEM121",121,"Nakhla","Marib","Nakhla, Yemen",45.198694,15.616035,"21/01/2013","Nakhla","Marib","Drone strike","Confirmed",1,1,1,1,2,4,0,0,0,0,2,2,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM121","","Yemen","Ma'rib","Medghal"
+"61",61,"YEM123",123,"Khawlan","Sanaa","Khawlan, Yemen",44.702496,15.270134,"23/01/2013","Khawlan","Sanaa","Drone strike","Confirmed",1,1,1,1,4,4,2,2,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM123","","Yemen","San`a'","Khwlan"
+"62",62,"YEM124",124,"Qayfa","Bayda","Qayfa, Yemen",45.066994,14.5335761,"23/01/2013","Qayfa","Bayda","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,5,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM124","","Yemen","Al Bayda'","Wald Rabi'"
+"63",63,"YEM126",126,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"21/04/2013","Wadi Abida","Marib","Airstrike
+Possible drone strike","Possible",1,1,1,1,2,2,0,0,0,0,2,3,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM126","","Yemen","Ma'rib","Marib"
+"64",64,"YEM128",128,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"20/05/2013","Radaa","Bayda","Airstrike
+Possible drone strike","Possible",1,1,1,1,2,2,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM128","","Yemen","Al Bayda'","Rada'"
+"65",65,"YEM133",133,"Wadi Ser","Hadhramout","Wadi Ser, Yemen",48.568056,15.904444,"01/08/2013","Wadi Ser","Hadhramout","Drone strike","Confirmed",1,1,1,1,3,5,4,5,1,1,3,3,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM133","","Yemen","Hadramawt","Al Qatn"
+"66",66,"YEM134",134,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"06/08/2013","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM134","","Yemen","Ma'rib","Marib"
+"67",67,"YEM135",135,"Markha","Shabwa","Markha, Yemen",50.7995157,15.6857977,"07/08/2013","Markha","Shabwa","Drone strike","Confirmed",1,1,1,1,6,8,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM135","","Yemen","Al Mahrah","Al Masilah"
+"68",68,"YEM136",136,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"08/08/2013","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,3,8,2,2,2,2,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM136","","Yemen","Ma'rib","Marib"
+"69",69,"YEM141",141,"Ghayl Bawazir","Hadhramout","Ghayl Bawazir, Yemen",49.3718626014594,14.77603705,"19/11/2013","Ghayl Bawazir","Hadhramout","US airstrike
+Possible drone strike","Confirmed",1,1,1,1,5,5,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM141","","Yemen","Hadramawt","Ghayl Ba Wazir"
+"70",70,"YEM144",144,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"12/12/2013","Radaa","Bayda","Drone strike","Confirmed",1,1,1,1,12,17,8,16,0,0,5,30,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM144","","Yemen","Al Bayda'","Rada'"
+"71",71,"YEM145",145,"Shibam","Hadhramout","Shibam, Yemen",48.6262491,15.9266974,"27/12/2013","Shibam","Hadhramout","Airstrike
+Possible drone strike","Possible",1,1,1,1,1,6,0,0,0,0,0,0,"www.thebureauinvestigates.com/2013/01/03/yemen-reported-us-covert-actions-2013/#YEM145","","Yemen","Hadramawt","Shibam"
+"72",72,"YEM147",147,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"06/01/2014","Radaa","Bayda","Drone strike","Confirmed",1,1,1,1,0,0,0,0,0,0,0,2,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM147","www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#","Yemen","Al Bayda'","Rada'"
+"73",73,"YEM149",149,"Shibam","Hadhramout","Shibam, Yemen",48.6262491,15.9266974,"15/01/2014","Shibam","Hadhramout","Airstrike
+Possible drone strike","Possible",1,1,1,1,1,1,1,1,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM149","","Yemen","Hadramawt","Shibam"
+"74",74,"YEM150",150,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"24/01/2014","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,3,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM150","","Yemen","Ma'rib","Marib"
+"75",75,"YEM152",152,"Shabwan","Marib","Shabwan, Yemen",44.7,13.633333,"02/03/2014","Shabwan","Marib","Drone strike","Confirmed",1,1,1,1,2,3,0,0,0,0,2,2,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM152","","Yemen","Al Dali'","Al Azariq"
+"76",76,"YEM156",156,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"10/03/2014","Wadi Abida","Marib","Airstrike
+Possible drone strike","Possible",1,1,1,1,1,4,0,1,0,1,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM156","","Yemen","Ma'rib","Marib"
+"77",77,"YEM162",162,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"12/05/2014","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,4,6,0,0,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM162","","Yemen","Ma'rib","Marib"
+"78",78,"YEM163",163,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"04/06/2014","Wadi Abida","Marib","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,4,0,0,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM163","","Yemen","Ma'rib","Marib"
+"79",79,"YEM166",166,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"09/08/2014","Wadi Abida","Marib","Drone strike","Confirmed",1,1,1,1,3,3,0,0,0,0,2,2,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM166","","Yemen","Ma'rib","Marib"
+"80",80,"YEM170",170,"Khasaf","Jawf","Khasaf, Yemen",44.272629,13.90453,"26/09/2014","Khasaf","Jawf","Airstrike
+Possible drone strike","Possible",1,1,1,1,2,3,0,0,0,0,3,3,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM170","","Yemen","Ibb","Ibb"
+"81",81,"YEM172",172,"Radaa","Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"24/10/2014","Radaa","Bayda","Airstrike
+Possible drone strike","Possible",1,1,1,1,3,10,0,10,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM172","","Yemen","Al Bayda'","Rada'"
+"82",82,"YEM173",173,"Radaa"," Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"26/10/2014","Radaa"," Bayda","Airstrike
+Possible drone strike
+Yemeni air and ground operations","Possible",1,1,1,1,12,20,2,10,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM173","","Yemen","Al Bayda'","Rada'"
+"83",83,"YEM174",174,"Radaa"," Bayda","Radaa, Yemen",44.8366677645038,14.4119177,"04/11/2014","Radaa"," Bayda","Drone strike","Confirmed",1,1,3,3,9,20,0,0,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM174","","Yemen","Al Bayda'","Rada'"
+"84",84,"YEM175",175,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"12/11/2014","Azzan","Shabwa","Drone strike","Confirmed",1,1,1,1,6,8,0,0,0,0,0,0,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM175","","Yemen","Shabwah","Mayfa'a"
+"85",85,"YEM177",177,"Nasab","Shabwa","Nasab, Yemen",44.142644,14.180946,"06/12/2014","Nasab","Shabwa","US drone strike","Confirmed",1,1,1,1,9,10,0,0,0,0,3,3,"www.thebureauinvestigates.com/2014/01/06/yemen-reported-us-covert-actions-2014/#YEM177","","Yemen","Ibb","Al Makhadir"
+"86",86,"YEM179",179,"Hareeb","Shabwa/Mareb border","Hareeb, Yemen",45.4975123,14.9301929,"26/01/2015","Hareeb","Shabwa/Mareb border","US drone strike","Confirmed",1,1,1,1,3,3,1,2,1,1,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM179","http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#","Yemen","Ma'rib","Harib"
+"87",87,"YEM184",184,"Markha district","Shabwa","Markha district, Yemen",50.7995157,15.6857977,"01/03/2015","Markha district","Shabwa","Airstrike
+Possible drone strike","Possible",1,1,1,1,2,3,0,0,0,0,3,3,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM184","","Yemen","Al Mahrah","Al Masilah"
+"88",88,"YEM185",185,"Mukalla","Hadhramout","Mukalla, Yemen",49.1231345,14.5424624,"12/04/2015","Mukalla","Hadhramout","US drone strike
+","Confirmed",1,1,1,1,3,7,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM185","","Yemen","Hadramawt","Al Mukalla City"
+"89",89,"YEM186",186,"Habban","Shabwa","Habban, Yemen",47.136125,14.290268,"17/04/2015","Habban","Shabwa","US drone strike
+","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM186","","Yemen","Shabwah","Habban"
+"90",90,"YEM187",187,"Saeed district","Shabwa","Saeed district, Yemen",42.9665488,14.796762,"19/04/2015","Saeed district","Shabwa","US drone strike
+","Confirmed",1,1,1,1,2,6,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM187","","Yemen","Al Hudaydah","Al Hali"
+"91",91,"YEM188",188,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"21/04/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,2,5,7,0,1,0,1,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM188","","Yemen","Hadramawt","Al Mukalla City"
+"92",92,"YEM189",189,"Mafraq","Shabwa","Mafraq, Yemen",45.325001,15.421548,"08/05/2015","Mafraq","Shabwa","Airstrike
+Possible US drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM189","","Yemen","Ma'rib","Marib City"
+"93",93,"YEM190",190,"Ataq","Shabwa","Ataq, Yemen",46.831872,14.572856,"10/05/2015","Ataq","Shabwa","Airstrike
+Possible US drone strike","Possible",1,1,1,1,1,4,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM190","","Yemen","Shabwah","Ataq"
+"94",94,"YEM191",191,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"11/05/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,4,4,0,0,0,0,2,2,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM191","","Yemen","Hadramawt","Al Mukalla City"
+"95",95,"YEM195",195,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"09/06/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,3,3,0,0,0,0,2,2,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM195","","Yemen","Hadramawt","Al Mukalla City"
+"96",96,"YEM196",196,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"25/06/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,4,5,0,0,0,0,2,2,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM196","","Yemen","Hadramawt","Al Mukalla City"
+"97",97,"YEM198",198,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"26/06/2015","Mukalla","Hadramout","Airstrike
+Possible US drone strike","Possible",1,1,1,1,4,4,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM198","","Yemen","Hadramawt","Al Mukalla City"
+"98",98,"YEM199",199,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"03/07/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM199","","Yemen","Hadramawt","Al Mukalla City"
+"99",99,"YEM200",200,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"11/07/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,3,10,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM200","","Yemen","Hadramawt","Al Mukalla City"
+"100",100,"YEM203",203,"Harib","Marib","Harib, Yemen",45.368197,14.930446,"21/08/2015","Harib","Marib","Airstrike, Possible US drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM203","","Yemen","Ma'rib","Harib"
+"101",101,"YEM204",204,"Mukalla","Hadaramout","Mukalla, Yemen",49.1231345,14.5424624,"23/08/2015","Mukalla","Hadaramout","US drone strike
+","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM204","","Yemen","Hadramawt","Al Mukalla City"
+"102",102,"YEM205",205,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"26/08/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,5,5,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM205","","Yemen","Hadramawt","Al Mukalla City"
+"103",103,"YEM206",206,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"09/09/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,3,6,0,4,0,0,2,2,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM206","","Yemen","Hadramawt","Al Mukalla City"
+"104",104,"YEM208",208,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"12/09/2015","Mukalla","Hadramout","US drone strike
+","Confirmed",1,1,1,1,4,5,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM208","","Yemen","Hadramawt","Al Mukalla City"
+"105",105,"YEM209",209,"Marib city","Marib","Marib city, Yemen",45.2598934,15.5986243,"21/09/2015","Marib city","Marib","Airstrike, Possible US drone strike","Possible",1,1,1,1,2,2,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM209","","Yemen","Ma'rib","Marib"
+"106",106,"YEM210",210,"Nata district","Bayda-Shabwa border","Nata district, Yemen",43.821332,15.524926,"22/12/2015","Nata district","Bayda-Shabwa border","US drone strike
+","Confirmed",1,1,1,1,4,4,0,0,0,0,0,0,"http://www.thebureauinvestigates.com/2015/01/26/yemen-reported-us-covert-actions-2015/#YEM210","","Yemen","Al Mahwit","Shibam Kawkaban"
+"107",107,"YEM212",212,"Sayoun","Hadramout","Sayoun, Yemen",50.6103015,17.4969967,"19/01/2016","Sayoun","Hadramout","US drone strike
+","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM212","","Yemen","Hadramawt","Rumah"
+"108",108,"YEM213",213,"Rawda city","Shabwa","Rawda city, Yemen",43.937493,14.414056,"03/02/2016","Rawda city","Shabwa","US drone strike
+","Confirmed",1,1,1,1,6,6,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM213","","Yemen","Dhamar","Utmah"
+"109",109,"YEM215",215,"Huta","Lahij","Huta, Yemen",48.433333,14.283333,"15/02/2016","Huta","Lahij","Airstrike, Possible US drone strike","Possible",1,1,1,1,3,3,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM215","","Yemen","Hadramawt","Hajr"
+"110",110,"YEM220",220,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"26/03/2016","Zinjibar","Abyan","Airstrike, Possible US drone strike","Possible",1,1,1,1,6,6,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM220","","Yemen","Abyan","Zingibar"
+"111",111,"YEM221",221,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"28/03/2016","Mukalla","Hadramout","Airstrike","Possible",1,0,1,1,5,5,3,3,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM221","","Yemen","Hadramawt","Al Mukalla City"
+"112",112,"YEM222",222,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"30/03/2016","Azzan","Shabwa","US drone strike","Confirmed",1,1,1,1,2,5,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM222","","Yemen","Shabwah","Mayfa'a"
+"113",113,"YEM223",223,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"30/03/2016","Mukalla","Hadramout","Airstrike","Possible",1,0,3,3,0,0,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM223","","Yemen","Hadramawt","Al Mukalla City"
+"114",114,"YEM224",224,"Mukalla","Hadramout","Mukalla, Yemen",49.1231345,14.5424624,"03/04/2016","Mukalla","Hadramout","Airstrike, Possible US drone strike","Possible",1,1,4,5,0,0,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM224","","Yemen","Hadramawt","Al Mukalla City"
+"115",115,"YEM225",225,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"05/04/2016","Zinjibar","Abyan","Airstrike","Possible",1,0,2,2,0,0,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM225","","Yemen","Abyan","Zingibar"
+"116",116,"YEM227",227,"Zinjibar","Abyan","Zinjibar, Yemen",45.3812081,13.1285811,"25/04/2016","Zinjibar","Abyan","US drone strike","Confirmed",1,1,1,1,3,6,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM227","","Yemen","Abyan","Zingibar"
+"117",117,"YEM228",228,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"25/04/2016","Azzan","Shabwa","US drone strike","Confirmed",1,1,1,1,2,10,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM228","","Yemen","Shabwah","Mayfa'a"
+"118",118,"YEM233",233,"Haban","Shabwa","Haban, Yemen",44.053264,14.027549,"12/06/2016","Haban","Shabwa","US drone strike","Confirmed",1,1,1,1,2,3,0,0,0,0,1,1,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM233","","Yemen","Ibb","Hubaysh"
+"119",119,"YEM235",235,"Musaina","Shabwa","Musaina, Yemen",50.7116964,15.0793887,"04/07/2016","Musaina","Shabwa","US drone strike","Confirmed",1,1,1,1,2,3,0,0,0,0,0,1,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM235","","Yemen","Hadramawt","Ar Raydah Wa Qusayar"
+"120",120,"YEM237",237,"Jabul","Mareb","Jabul, Yemen",42.523224,15.418649,"10/07/2016","Jabul","Mareb","US drone strike","Possible",1,1,1,1,0,0,0,0,0,0,4,4,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM237","",NA,NA,NA
+"121",121,"YEM238",238,"Al Uqlah","Shabwa","Al Uqlah, Yemen",43.348839,15.963891,"16/07/2016","Al Uqlah","Shabwa","US drone strike","Confirmed",1,1,1,1,2,4,0,0,0,0,0,2,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM238","","Yemen","Hajjah","Khayran Al Muharraq"
+"122",122,"YEM239",239,"Azzan","Shabwa","Azzan, Yemen",47.4475743,14.3267791,"04/08/2016","Azzan","Shabwa","US drone strike","Confirmed",1,1,1,1,2,4,0,0,0,0,2,4,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM239","","Yemen","Shabwah","Mayfa'a"
+"123",123,"YEM243",243,"Radaa area","Bayda ","Radaa area, Yemen",44.8366677645038,14.4119177,"13/09/2016","Radaa area","Bayda ","US drone strike ","Confirmed",1,1,1,1,5,5,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM243","","Yemen","Al Bayda'","Rada'"
+"124",124,"YEM244",244,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"20/09/2016","Wadi Abida","Marib","US drone or air strike
+","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM244","","Yemen","Ma'rib","Marib"
+"125",125,"YEM253",253,"Sawmaah","Bayda","Sawmaah, Yemen",47.422346,14.382068,"24/11/2016","Sawmaah","Bayda","US air or drone strike","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM253","","Yemen","Shabwah","Mayfa'a"
+"126",126,"YEM256",256,"Sawmaah","Bayda ","Sawmaah, Yemen",47.422346,14.382068,"29/12/2016","Sawmaah","Bayda ","US air or drone strike","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2016/01/18/yemen-reported-us-covert-actions-2016/#YEM256","","Yemen","Shabwah","Mayfa'a"
+"127",127,"YEM261",261,"Yakla","Bayda","Yakla, Yemen",45.1,14.5,"28/01/2017","Yakla","Bayda","US air and ground operation
+Special forces air assault and air support, possibly drone","Confirmed",0,0,1,1,39,39,25,25,10,10,7,7,"https://www.thebureauinvestigates.com/2017/01/13/yemen-reported-us-covert-actions-2017/#YEM261","","Yemen","Al Bayda'","Ash Sharyah"
+"128",128,"YEM262",262,"Baihan","Shabwa","Baihan, Yemen",45.553611,14.351111,"30/01/2017","Baihan","Shabwa","US air or drone strike","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2017/01/13/yemen-reported-us-covert-actions-2017/#YEM262","","Yemen","Al Bayda'","At Taffah"
+"129",129,"YEM265",265,"Ahwar","Abyan ","Ahwar, Yemen",46.713669,13.52019,"04/03/2017","Ahwar","Abyan ","US air or drone strike","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"https://www.thebureauinvestigates.com/2017/01/13/yemen-reported-us-covert-actions-2017/#YEM265","","Yemen","Abyan","Ahwar"
+"130",130,"YEM270",270,"al Said ","Shabwah ","al Said , Yemen",45.57531,14.113788,"23/04/2017","al Said ","Shabwah ","US air or drone strike","Confirmed",1,1,1,1,3,8,3,8,0,0,0,0,"https://www.thebureauinvestigates.com/2017/01/13/yemen-reported-us-covert-actions-2017/#YEM270","","Yemen","Al Bayda'","Al Bayda"
+"131",131,"YEM281",281,"Raghwan ","Marib ","Raghwan , Yemen",45.069418,15.788076,"08/10/2017","Raghwan ","Marib ","US air or drone strike","Confirmed",1,1,1,1,5,5,0,0,0,0,0,0,"","","Yemen","Ma'rib","Raghwan"
+"132",132,"YEM286",286,"Al Wadi","Marib ","Al Wadi, Yemen",44.384029,13.231202,"02/11/2017","Al Wadi","Marib ","US air or drone strike","Confirmed",1,1,1,1,2,2,0,0,0,0,0,0,"","","Yemen","Lahij","Al Qabbaytah"
+"133",133,"YEM298",298,"Said","Shabwah","Said, Yemen",43.69209,15.76423,"26/01/2018","Said","Shabwah","US air or drone strike","Confirmed",1,1,1,1,7,7,7,7,0,0,0,0,"","","Yemen","Hajjah","Kuhlan Affar"
+"134",134,"YEM306",306,"Al Abr","Hadramout","Al Abr, Yemen",47.228796,15.938422,"09/03/2018","Al Abr","Hadramout","US air or drone strike","Possible",1,1,1,1,6,6,0,6,0,1,0,0,"","","Yemen","Hadramawt","Al Abr"
+"135",135,"YEM307",307,"Wadi Abida","Marib","Wadi Abida, Yemen",45.3,15.616667,"22/03/2018","Wadi Abida","Marib","US air or drone strike","Possible",1,1,1,1,5,7,0,0,0,0,0,0,"","","Yemen","Ma'rib","Marib"
+"136",136,"YEM309",309,"Sawmaah","Bayda","Sawmaah, Yemen",47.422346,14.382068,"29/03/2018","Sawmaah","Bayda","US air or drone strike","Confirmed",1,1,1,1,3,4,0,3,0,0,0,2,"","","Yemen","Shabwah","Mayfa'a"
+"137",137,"YEM319",319,"Ahwar","Abyan","Ahwar, Yemen",46.713669,13.52019,"09/09/2018","Ahwar","Abyan","US air or drone strike","Confirmed",1,0,1,1,4,4,0,0,0,0,0,0,"","","Yemen","Abyan","Ahwar"
+"138",138,"YEM324",324,"Dhi Naim","Badya","Dhi Naim, Yemen",45.4400651,14.1033922,"24/06/2019","Dhi Naim","Badya","US air or drone strike","Confirmed",1,0,1,1,0,5,0,0,0,0,0,0,"","","Yemen","Al Bayda'","Dhi Na'im"
